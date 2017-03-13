@@ -8,4 +8,4 @@ references:
     date_published: 
 ---
 
-Stop and Frisk reduces crime.
+Stop and Frisk makes us safer.
