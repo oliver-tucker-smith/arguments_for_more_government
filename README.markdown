@@ -2,13 +2,13 @@
 
 __Check out [the content guidelines](https://www.convinceme.us/content_instructions)__
 
-Arguments that call for an increase in government size, regulation or spending belong here.
+Arguments that call for an increase in government size, regulation or spending belong here. Arguments for new government also belong here, even if the proposal would hypothetically result in a decrease in government (e.g. school vouchers, where there would potentially, eventually be fewer public schools).
 
 Good arguments do these things:
 
-1. Detail _what_ additional government should be
-2. Explain the goal of the additional government
-3. Use references to back itself up
+- Detail _what_ additional government should be
+- Explain the goal of the additional government
+- Use references to back itself up
 
 Pull Requests can only be merged by the GitHub team members in charge of arguments for more government (they serve as editors).
 
